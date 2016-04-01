@@ -1,12 +1,8 @@
-#include <SDL.h>
-#include <lua.hpp>
-#include <stdio.h>
-#include <Hamjet/Engine.hpp>
-#include <png.h>
-
 #include <Hamjet/Math.hpp>
 #include <Hamjet/Engine.hpp>
 #include <Hamjet/Raytracer.hpp>
+
+#include <stdio.h>
 
 #define WINDOW_WIDTH 350
 #define WINDOW_HEIGHT 350
